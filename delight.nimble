@@ -6,8 +6,6 @@ description   = "Engine-agnostic library for computing 2D raycasted lights"
 license       = "MIT"
 srcDir        = "src"
 
-
-
 # Dependencies
 
 requires "nim >= 1.0.4"

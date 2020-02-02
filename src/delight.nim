@@ -1,4 +1,5 @@
 ## delight is a simple, but efficient 2D light raycaster.
+## See the readme for a detailed tutorial on how to use this.
 
 # This library is based on the following article:
 # https://ncase.me/sight-and-light/
