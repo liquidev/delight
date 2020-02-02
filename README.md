@@ -2,6 +2,8 @@
 
 An engine-agnostic library for computing 2D raycasted lights.
 
+[Documentation](https://liquid600pgm.github.io/delight/docs/)
+
 [Demo](https://github.com/liquid600pgm/delightful)
 [![screenshot of delightful](https://raw.githubusercontent.com/liquid600pgm/delightful/master/screenshot.png)](https://github.com/liquid600pgm/delightful)
 
